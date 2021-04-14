@@ -1,0 +1,9 @@
+.App {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #575251;
+	padding: 0 16px 16px 8px;
+	font-family: 'Source Sans Pro';
+	background-color: #ebebeb;
+}
